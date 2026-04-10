@@ -1,3 +1,16 @@
+/**
+ * ____        _           _                       
+ * |  _ \ _   _| | ___ _ __| |_   _ _ __   __ _  ___ 
+ * | |_) | | | | |/ _ \ '__| | | | | '_ \ / _` |/ _ \
+ * |  _ <| |_| | |  __/ |  | | |_| | | | | (_| |  __/
+ * |_| \_\\__,_|_|\___|_|  |_|\__,_|_| |_|\__,_|\___|
+ * * Project: PARALLAX Effect
+ * Author: Rulerlunae
+ * Repository: https://github.com/Rulerlunae18/PARALAX
+ * Description: Smooth, optimized parallax scrolling implementation.
+ * * "Any sufficiently advanced bug is indistinguishable from a feature."
+ */
+
 default parallax_x = 0.0
 default parallax_y = 0.0
 default smooth_x = 0.0
